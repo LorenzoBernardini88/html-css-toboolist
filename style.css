@@ -66,12 +66,12 @@ body{
     color: white;
 }
 
-#editorial{
+#editorial,#editorial1,#editorial2{
     background-color: dodgerblue;
 
 }
 #q1_goals{
-    background-color: orchid;
+    background-color:slateblue;
 }
 #recruiting{
     background-color:mediumaquamarine;
@@ -79,6 +79,12 @@ body{
 }
 #mobile{
     background-color: orange;
+}
+#website{
+    background-color: orchid;
+}
+#sales{
+    background-color: yellowgreen;
 }
 
 .row{
