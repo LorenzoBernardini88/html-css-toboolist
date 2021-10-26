@@ -86,7 +86,11 @@ body{
 #sales{
     background-color: yellowgreen;
 }
+h2{
+    margin-bottom: 5px;
 
+}
 .row{
     margin-bottom: 5px;
+    
 }
